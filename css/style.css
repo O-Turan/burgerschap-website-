@@ -4,6 +4,7 @@
     --background-img3: url(/img/contact.jpg);
     --background-img4: url(/img/backgroundprojects.jpg);
     --background-img5: url(/img/windowsXP.jpg);
+    --highlight-word: (orange);
 }
 
 body {
