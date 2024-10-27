@@ -4,6 +4,10 @@
     --background-img3: url(/img/contact.jpg);
     --background-img4: url(/img/backgroundprojects.jpg);
     --background-img5: url(/img/windowsXP.jpg);
+    --background-img6: url(/img/city-moore-municipal-court-2.jpg);
+    --background-img7: url(/img/photo-1639322537231-2f206e06af84.jpg);
+    --background-img8: url(/img/job-search-related-words-background-footage-000998921_iconl.webp);
+    --background-img9: url(/img/d6a692fc1e0489955e2b4ed4ae742c76.jpg)
 }
 
 body {
@@ -13,7 +17,7 @@ body {
 }
 
 .body2 {
-    background-image: var(--background-img2);
+    background-image: var(--background-img6);
 }
 
 .body3 {
@@ -26,5 +30,17 @@ body {
 
 .body5 {
     background-image: var(--background-img5);
+}
+
+.body6 {
+    background-image: var(--background-img7);
+}
+
+.body7 {
+    background-image: var(--background-img8);
+}
+
+.body8 {
+    background-image: var(--background-img9);
 }
 
