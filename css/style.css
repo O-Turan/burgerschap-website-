@@ -1,0 +1,29 @@
+:root {
+    --background-img: url(/img/wallpaperflare.com_wallpaper.jpg);
+    --background-img2: url(/img/aboutme.jpg);
+    --background-img3: url(/img/contact.jpg);
+    --background-img4: url(/img/backgroundprojects.jpg);
+    --background-img5: url(/img/windowsXP.jpg);
+}
+
+body {
+    background-image: var(--background-img);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.body2 {
+    background-image: var(--background-img2);
+}
+
+.body3 {
+    background-image: var(--background-img3);
+}
+
+.body4 {
+    background-image: var(--background-img4);
+}
+
+.body5 {
+    background-image: var(--background-img5);
+}
